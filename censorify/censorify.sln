@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26430.6
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{262852C6-CD72-467D-83FE-5EEB1973A190}") = "censorify", "censorify\censorify.jsproj", "{39B2D5A1-C550-435D-A2A1-6B7725EBE081}"
+Project("{262852C6-CD72-467D-83FE-5EEB1973A190}") = "censgx45", "censorify\censgx45.jsproj", "{39B2D5A1-C550-435D-A2A1-6B7725EBE081}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
